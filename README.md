@@ -6,7 +6,7 @@
 <div style="display: block">
 <img src="https://github-readme-stats.vercel.app/api?username=bluebeagbb&show_icons=true&theme=transparent"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluebeagbb&layout=donut&theme=transparent"></img>
-<img src="https://media.tenor.com/Ch4VFEjuI7IAAAAd/anime-boy.gif"></img>
+<img width="200" src="https://media.tenor.com/Ch4VFEjuI7IAAAAd/anime-boy.gif"></img>
 </div>
 
 <div> 
