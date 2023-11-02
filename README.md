@@ -6,7 +6,6 @@
 <div style="display: block">
 <img src="https://github-readme-stats.vercel.app/api?username=bluebeagbb&show_icons=true&theme=transparent"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluebeagbb&layout=donut&theme=transparent"></img>
-<img width="200" src="https://media.tenor.com/Ch4VFEjuI7IAAAAd/anime-boy.gif"></img>
 </div>
 
 <div> 
@@ -18,6 +17,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,cpp,lua">
+    <img width="200" src="https://media.tenor.com/Ch4VFEjuI7IAAAAd/anime-boy.gif"></img>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bluebeagbb/bluebeagbb/output/github-contribution-grid-snake-dark.svg">
