@@ -16,7 +16,7 @@
 
 
 <div style="display: inline_block"><br>
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,cpp,bootstrap">
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,django,bootstrap">
      <img align="right" width="100" src="https://camo.githubusercontent.com/6727969e0d447aef4f429a6221d73fa63f550a88e845e99c053d15b1583d0566/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4368345646456a7549374941414141642f616e696d652d626f792e676966"></img>
 </div>
 <picture>
