@@ -1,4 +1,4 @@
-<h1>Opa bem vindo! 👋🌌</h1>
+<h1>Olá, Seja Bem Vindo! 👋🌌</h1>
 
 >“ _Sucesso é o acúmulo de pequenos esforços repetidos dia após dia._ “ - Robert Collier
 
