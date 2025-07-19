@@ -1,3 +1,6 @@
+
+<img width="1128" height="191" alt="Design sem nome" src="https://github.com/user-attachments/assets/c7c6d7e3-b485-4a9b-ac69-789ee6d3c604" />
+
 ## 👋 Olá, eu sou o Gabriel
 
 Desenvolvedor formado com forte interesse em desenvolvimento fullstack e especialização em tecnologias frontend.  
