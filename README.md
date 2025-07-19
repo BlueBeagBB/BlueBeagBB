@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,html,css,js,ts,react,vite,tailwindcss,robloxstudio,lua">
+  <img align="center" src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,html,css,js,ts,nodejs,react,vite,tailwindcss,robloxstudio,lua">
 </div>
 <br>
 <div align="center"> 
