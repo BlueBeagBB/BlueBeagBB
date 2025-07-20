@@ -3,7 +3,7 @@
 
 ## 👋 Hello, I’m Gabriel
 
-A full-stack developer in training with a strong passion for frontend technologies.  
+A graduated full-stack developer in training with a strong passion for frontend technologies.  
 I'm actively working with **React**, **Vite**, and **Node**, focusing on building modern, high-performance, and responsive applications.
 
 I created and launched an introductory React course as a personal project, designed as a functional and didactic application.  
