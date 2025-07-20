@@ -1,5 +1,5 @@
 
-<img width="1128" height="191" alt="Design sem nome" src="https://github.com/user-attachments/assets/c7c6d7e3-b485-4a9b-ac69-789ee6d3c604" />
+<img width="1128" height="191" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/16197bde-47a4-4d90-9b29-f2c8855898ad" />
 
 ## 👋 Olá, eu sou o Gabriel
 
