@@ -1,24 +1,23 @@
 
 <img width="1128" height="191" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/16197bde-47a4-4d90-9b29-f2c8855898ad" />
 
-## 👋 Olá, eu sou o Gabriel
+## 👋 Hello, I’m Gabriel
 
-Desenvolvedor formado com forte interesse em desenvolvimento fullstack e especialização em tecnologias frontend.  
-Tenho trabalhado ativamente com **React**, **Vite** e **Node**, focando na criação de aplicações modernas, performáticas e responsivas.
+A full-stack developer in training with a strong passion for frontend technologies.  
+I'm actively working with **React**, **Vite**, and **Node**, focusing on building modern, high-performance, and responsive applications.
 
-Criei e disponibilizei um curso introdutório de React como um projeto pessoal, estruturado em uma aplicação funcional e didática.
-Atualmente, estou em constante aprendizado e aprimoramento, com o objetivo de construir uma carreira sólida no mercado internacional de tecnologia.
+I created and launched an introductory React course as a personal project, designed as a functional and didactic application.  
+I'm continuously learning and improving, aiming to build a solid career in the international tech market.
 
 ---
 
-## 💼 Sobre mim
+## 💼 About Me
 
-- 🧑‍💻 Desenvolvedor Fullstack com foco em **Frontend** e experiência prática com tecnologias modernas
-- 🚀 Autor de um curso introdutório de React.
-- 🎯 Interesse em criar soluções eficientes, intuitivas e alinhadas a boas práticas de desenvolvimento
-- 🌍 Em busca de oportunidades internacionais e desafios técnicos que expandam meu conhecimento
-- 📚 Aprendizado contínuo, com ênfase em **React**, **Vite**, **Node.js** e ecossistemas relacionados
-
+- 🧑‍💻 Full‑stack developer with a strong frontend focus and hands‑on experience with modern technologies  
+- 🚀 Creator of an introductory React course  
+- 🎯 Driven to build efficient, intuitive solutions and adhere to best development practices  
+- 🌍 Seeking international opportunities and technical challenges that broaden my expertise  
+- 📚 Committed to continuous learning, with a focus on **React**, **Vite**, **Node.js**, and related ecosystems
 
 <br>
 
